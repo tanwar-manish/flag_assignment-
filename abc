@@ -1,0 +1,13 @@
+Check  GIT
+Create Feature branch based on provided release branch 
+Check if the feature branch already exists
+Create and checkout the feature branch
+Push the feature branch to the remote repository
+Clone the feature branch to a new local directory
+Add the new changes to the Feature branch
+Commit the changes to the  Feature branch
+Push the feature branch changes to the Server
+Pull Request is created from the Feature to release branch
+Ask if the developer/User wants to merge the feature branch into the release branch
+Merge the feature branch into the release branch 
+Handle invalid input for merge action
