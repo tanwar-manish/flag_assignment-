@@ -19,3 +19,4 @@ PROD DB Connectivity:- Use individual windows credentials to test the bot on PRO
 
 Please note, all above database can be connect only with HPE credentials, you can discuss/connect with Vikas for HPE connectivity issues.
 
+my linkedin: https://www.linkedin.com/in/manish-kumar-5039a3181/
